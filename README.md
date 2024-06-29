@@ -1,7 +1,7 @@
 ### Overview ###
 The Trust Rank algorithm is designed to identify and rank trustworthy nodes in a network,
 which is particularly useful in detecting fraudulent activities. This repository contains 
-the implementation of the algorithm, along with relevant documentation and examples.
+the implementation of the algorithm, along with relevant Datasets.
 
 ### Course Information ###
 Course: Fraud Analytics
