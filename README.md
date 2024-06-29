@@ -5,7 +5,9 @@ the implementation of the algorithm, along with relevant documentation and examp
 
 ### Course Information ###
 Course: Fraud Analytics
+
 Instructor: Dr. Ch. Sobhan Babu
+
 Institution: Indian Institute of Technology Hyderabad (IITH)
 
 
