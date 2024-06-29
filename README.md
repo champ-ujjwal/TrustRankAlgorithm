@@ -8,5 +8,4 @@ Course: Fraud Analytics
 Instructor: Dr. Ch. Sobhan Babu
 Institution: Indian Institute of Technology Hyderabad (IITH)
 
-### License ###
-This project is licensed under the MIT License. See the LICENSE file for more details.
+
